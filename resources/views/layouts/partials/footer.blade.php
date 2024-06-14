@@ -88,8 +88,8 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="widget widgets-company-info">
 						<div class="dreamhub-logo">
-						<a class="logo_thumb" href="index.html" title="dreamhub">
-							<img src="assets/images/logo.png" alt="" />
+						<a class="logo_thumb" href="/" title="dreamhub">
+							<img src="assets/images/logo.png" width="150" alt="" />
 						</a>
 					</div>
 						<div class="company-info-desc">
@@ -195,7 +195,7 @@
 	<div class="search-popup">
 		<button class="close-search style-two"><span class="flaticon-multiply"><i class="far fa-times-circle"></i></span></button>
 		<button class="close-search"><i class="bi bi-arrow-up"></i></button>
-		<form method="post" action="#">
+		<form>
 			<div class="form-group">
 				<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 				<button type="submit"><i class="fa fa-search"></i></button>

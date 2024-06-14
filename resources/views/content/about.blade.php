@@ -9,7 +9,7 @@
                     <div class="breatcam-content">
                         <h1> About Us </h1>
                         <ul>
-                            <li><a href="index.html"> <i class="fas fa-home"></i> Home</a></li>
+                            <li><a href="{{route('home')}}"> <i class="fas fa-home"></i> Home</a></li>
                             <li> About Us </li>
                         </ul>
                     </div>

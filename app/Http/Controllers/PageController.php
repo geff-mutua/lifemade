@@ -21,6 +21,9 @@ class PageController extends Controller
     public function contact(){
         return view('content.contact');
     }
+    public function Gallery(){
+        return view('content.gallery');
+    }
 
     public function ContactUS(Request $request){
         $data=$request->validate([
@@ -43,4 +46,6 @@ class PageController extends Controller
        }
         
     }
+
+   
 }
